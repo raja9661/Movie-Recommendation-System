@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small example package for movie recommendation 
+Author: Raja
+Author-email: rajababu.king1@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
